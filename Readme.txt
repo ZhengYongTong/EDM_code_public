@@ -17,7 +17,7 @@ Before using the program EDM.exe:
       Intel OneAPI Base Toolkit and HPC Toolkit (https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html#base-kit) or Intel visual FORTRAN (IVF).
       If one want to use some other compilers, It is recommended to find some other sparse matrix solvers and replace the origin solvers with them by modifying the codes. 
 
-  3. It is highly recommended to read the EDM_User_Manual.pdf or EDM_User_MANUAL_English.pdf to learn how to make a input file (EDM.inp)
+  3. It is highly recommended to read the EDM_User_Manual.pdf or EDM_User_MANUAL_English.pdf to learn how to make an input file (EDM.inp)
       and what files will be generated after running the program.
 
 Before reading the source codes, it is highly recommended to refer to the following five papers:
