@@ -28,7 +28,7 @@ Before reading the source codes, it is highly recommended to refer to the follow
     International Journal of Heat and Mass Transfer 126 (2018) 1111–1119 ----- non-linear steady and transient heat transfer problems
 
 How to generate EDM.exe by the source codes?
-    If using Intel OneAPI or IVF, to compile the codes into a executable program named EDM.exe, one can use the following compile command:
+    If using Intel OneAPI or IVF, to compile the codes into an executable program named EDM.exe, one can use the following compile command:
     IFORT /Qmkl:parallel /exe:EDM.exe *.F *.f90
     If compiling them in IDE of MVS, one still need to choose 'Use Intel Math Kernel Library' in 'Property' (not to be 'No').
 
